@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: chocolate
+}
+
+.menu {
+    list-style: none;
+    cursor: pointer;
+    position: fixed;
+    top: 5px
+}
+
+.list {
+    float: left;
+    background-color: aqua;
+    font-size: 20px;
+    padding-left: 80px;
+    padding-right: 80px
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+.list:hover {
+    color: white;
+    font-size: 25px
+}
